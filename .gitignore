@@ -1,0 +1,6 @@
+__pycache__/
+*.pt
+yolov5n.onnx
+cars.xml
+car.jpg
+beetle.jpg
